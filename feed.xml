@@ -34,14 +34,10 @@
     EPISODE SUBTITLE
     </itunes:subtitle>
     <itunes:summary>
-    <![CDATA[
-    EPISODE DESCRIPTION
-    ]]>
+    <![CDATA[EPISODE DESCRIPTION]]>
     </itunes:summary>
     <description>
-    <![CDATA[
-    EPISODE DESCRIPTION
-    ]]>
+    <![CDATA[EPISODE DESCRIPTION]]>
     </description>
     <itunes:image href="https://fkrt2.github.io/7moPP/7mopp.png"/>
     <enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
